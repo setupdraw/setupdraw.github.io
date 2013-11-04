@@ -199,6 +199,10 @@ footer {
   bottom:50px;
 }
 
+.clear {
+	clear:both;
+}
+
 @media print, screen and (max-width: 960px) {
   
   div.wrapper {
