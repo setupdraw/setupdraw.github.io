@@ -169,6 +169,18 @@ section {
   padding-bottom:50px;
 }
 
+#skills {
+	margin:20px 0 0 -40px;
+}
+
+#skills li {
+	background:#eee;
+	float:left;
+	list-style-type:none;
+	padding:5px;
+	margin: 0 10px 10px 0;
+}
+
 small {
   font-size:11px;
 }
